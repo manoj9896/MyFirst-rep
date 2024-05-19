@@ -1,7 +1,9 @@
+<!--- Provide a general summary of your changes in the Title above -->
+
 ## Pull Request Templates
 
 Please select the appropriate template for your pull request:
 
--   [Bug Fix](?template=.github/PULL_REQUEST_TEMPLATE/bug_fix.md)
--   [Feature Request](.github/PULL_REQUEST_TEMPLATE/feature_request.md)
--   [Documentation Update](.github/PULL_REQUEST_TEMPLATE/documentation_update.md)
+-   [Bug Fix](?template=bug_fix.md)
+-   [Bug Fix](?template=bug_fix.yaml)
+-   [Feature Request](?template=feature_request.md)
